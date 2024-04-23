@@ -1,2 +1,2 @@
 # Autofill_extension_with_server
-Autofill chrome extension. 
+Auto fill extension for google connect to a Web server
